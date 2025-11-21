@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: ed9bf4cb86f610246ad386011bfef1fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2124617110944569142
+    second: Darkrai_Ripper_0
+  - first:
+      213: -3535027029294299406
+    second: Darkrai_Ripper_1
+  - first:
+      213: 6777373878101146054
+    second: Darkrai_Ripper_2
+  - first:
+      213: 6855604877536705762
+    second: Darkrai_Ripper_3
+  - first:
+      213: 2584926689933202985
+    second: Darkrai_Ripper_4
+  - first:
+      213: 7761003312609278275
+    second: Darkrai_Ripper_5
+  - first:
+      213: -2439580532424424328
+    second: Darkrai_Ripper_6
+  - first:
+      213: -3356345715329588852
+    second: Darkrai_Ripper_7
+  - first:
+      213: -4322814793174829037
+    second: Darkrai_Ripper_8
+  - first:
+      213: -2991346632782358222
+    second: Darkrai_Ripper_9
+  - first:
+      213: -9099474421189137938
+    second: Darkrai_Ripper_10
+  - first:
+      213: -7530441976076933086
+    second: Darkrai_Ripper_11
+  - first:
+      213: -7715472165620663687
+    second: Darkrai_Ripper_12
+  - first:
+      213: 2512158399356037142
+    second: Darkrai_Ripper_13
+  - first:
+      213: 6525979927489859650
+    second: Darkrai_Ripper_14
+  - first:
+      213: -8368979496918622115
+    second: Darkrai_Ripper_15
+  - first:
+      213: -8944946639544280985
+    second: Darkrai_Ripper_16
+  - first:
+      213: 1663368133493128371
+    second: Darkrai_Ripper_17
+  - first:
+      213: -4730259835517405324
+    second: Darkrai_Ripper_18
+  - first:
+      213: -8386929877612738828
+    second: Darkrai_Ripper_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkrai_Ripper_0
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 358
+        width: 56
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637519571082c7d10800000000000000
+      internalID: 2124617110944569142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 371
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6428f65af01fec0800000000000000
+      internalID: -3535027029294299406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 374
+        width: 52
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9fa3252a11e0e50800000000000000
+      internalID: 6777373878101146054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 374
+        width: 59
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecb2064050042f50800000000000000
+      internalID: 6855604877536705762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 272
+        width: 52
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92615e301218fd320800000000000000
+      internalID: 2584926689933202985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 289
+        width: 52
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349b4bca46f94bb60800000000000000
+      internalID: 7761003312609278275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 289
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87442e36e6ed42ed0800000000000000
+      internalID: -2439580532424424328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 289
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c812066ca5ddb61d0800000000000000
+      internalID: -3356345715329588852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 188
+        width: 45
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b20f49d64204c0800000000000000
+      internalID: -4322814793174829037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 206
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23952f8161a9c76d0800000000000000
+      internalID: -2991346632782358222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 207
+        width: 43
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9a44a993c28b180800000000000000
+      internalID: -9099474421189137938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 206
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286e36bbee7e7790800000000000000
+      internalID: -7530441976076933086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 104
+        width: 46
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a34c591f22de490800000000000000
+      internalID: -7715472165620663687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 120
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618612511cafcd220800000000000000
+      internalID: 2512158399356037142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 120
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240dc5dfa20f09a50800000000000000
+      internalID: 6525979927489859650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 120
+        width: 48
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5063a10d796bdb80800000000000000
+      internalID: -8368979496918622115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 23
+        width: 58
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76893277c6a2dd380800000000000000
+      internalID: -8944946639544280985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 37
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcff872188751710800000000000000
+      internalID: 1663368133493128371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 37
+        width: 55
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ffa8ddbdba5eb0800000000000000
+      internalID: -4730259835517405324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darkrai_Ripper_19
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 37
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f648c056b3ab9b80800000000000000
+      internalID: -8386929877612738828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: adf5c86fce7768846bbaf8b960992aac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Darkrai_Ripper_0: 2124617110944569142
+      Darkrai_Ripper_1: -3535027029294299406
+      Darkrai_Ripper_10: -9099474421189137938
+      Darkrai_Ripper_11: -7530441976076933086
+      Darkrai_Ripper_12: -7715472165620663687
+      Darkrai_Ripper_13: 2512158399356037142
+      Darkrai_Ripper_14: 6525979927489859650
+      Darkrai_Ripper_15: -8368979496918622115
+      Darkrai_Ripper_16: -8944946639544280985
+      Darkrai_Ripper_17: 1663368133493128371
+      Darkrai_Ripper_18: -4730259835517405324
+      Darkrai_Ripper_19: -8386929877612738828
+      Darkrai_Ripper_2: 6777373878101146054
+      Darkrai_Ripper_3: 6855604877536705762
+      Darkrai_Ripper_4: 2584926689933202985
+      Darkrai_Ripper_5: 7761003312609278275
+      Darkrai_Ripper_6: -2439580532424424328
+      Darkrai_Ripper_7: -3356345715329588852
+      Darkrai_Ripper_8: -4322814793174829037
+      Darkrai_Ripper_9: -2991346632782358222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

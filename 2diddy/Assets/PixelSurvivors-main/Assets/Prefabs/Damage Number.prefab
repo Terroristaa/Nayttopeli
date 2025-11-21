@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &5207529153295500464
+--- !u!1 &1065868807426116248
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,10 +8,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1227584132529032074}
-  - component: {fileID: 6451271170859259319}
-  - component: {fileID: 4868545904330887063}
-  - component: {fileID: 8437178832392152842}
+  - component: {fileID: 3369766147897690840}
+  - component: {fileID: 8563013704262300304}
+  - component: {fileID: 5884804718401950865}
+  - component: {fileID: -5351448067339449679}
   m_Layer: 5
   m_Name: Damage Number
   m_TagString: Untagged
@@ -19,45 +19,45 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &1227584132529032074
+--- !u!224 &3369766147897690840
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5207529153295500464}
+  m_GameObject: {fileID: 1065868807426116248}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.13161305, y: 0.12556188, z: -0.1210235}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -184.4, y: 111.2}
+  m_AnchoredPosition: {x: -20.72, y: 7.93}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &6451271170859259319
+--- !u!222 &8563013704262300304
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5207529153295500464}
+  m_GameObject: {fileID: 1065868807426116248}
   m_CullTransparentMesh: 1
---- !u!114 &4868545904330887063
+--- !u!114 &5884804718401950865
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5207529153295500464}
+  m_GameObject: {fileID: 1065868807426116248}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
@@ -66,10 +66,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: XX
+  m_text: xx
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 3541f28d50a74e9448b19ffa3092be4c, type: 2}
-  m_sharedMaterial: {fileID: 9101982513453838865, guid: 3541f28d50a74e9448b19ffa3092be4c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 885d0c7ad31b85e42aef192b0a2f21fb, type: 2}
+  m_sharedMaterial: {fileID: 2321629079834387971, guid: 885d0c7ad31b85e42aef192b0a2f21fb, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -137,16 +137,16 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!114 &8437178832392152842
+--- !u!114 &-5351448067339449679
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5207529153295500464}
+  m_GameObject: {fileID: 1065868807426116248}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0b69eef14a6c9443bea59f2a270a023, type: 3}
+  m_Script: {fileID: 11500000, guid: b158368ffc6ea5b438ada776eaa5010a, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
-  damageText: {fileID: 4868545904330887063}
+  m_EditorClassIdentifier: Assembly-CSharp::DamageNumber
+  damageText: {fileID: 5884804718401950865}

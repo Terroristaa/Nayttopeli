@@ -1,0 +1,3613 @@
+fileFormatVersion: 2
+guid: 11c950d64565866428d760bcc5b0989d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1152219455999875405
+    second: Gengar_Haunter_Gastlypng_0
+  - first:
+      213: 562373404312386334
+    second: Gengar_Haunter_Gastlypng_1
+  - first:
+      213: -3107409167755548305
+    second: Gengar_Haunter_Gastlypng_2
+  - first:
+      213: 5995117069435440283
+    second: Gengar_Haunter_Gastlypng_3
+  - first:
+      213: 4171537456306817924
+    second: Gengar_Haunter_Gastlypng_4
+  - first:
+      213: 5191647558315492146
+    second: Gengar_Haunter_Gastlypng_5
+  - first:
+      213: -4013409968575523517
+    second: Gengar_Haunter_Gastlypng_6
+  - first:
+      213: 2527851097086074045
+    second: Gengar_Haunter_Gastlypng_7
+  - first:
+      213: -722935483874288198
+    second: Gengar_Haunter_Gastlypng_8
+  - first:
+      213: -7368851521259237734
+    second: Gengar_Haunter_Gastlypng_9
+  - first:
+      213: -1953585950610624466
+    second: Gengar_Haunter_Gastlypng_10
+  - first:
+      213: 2826584589995572326
+    second: Gengar_Haunter_Gastlypng_11
+  - first:
+      213: -2407738877235980946
+    second: Gengar_Haunter_Gastlypng_12
+  - first:
+      213: 4635624432410563108
+    second: Gengar_Haunter_Gastlypng_13
+  - first:
+      213: -470803161361871824
+    second: Gengar_Haunter_Gastlypng_14
+  - first:
+      213: 4137985089061430336
+    second: Gengar_Haunter_Gastlypng_15
+  - first:
+      213: 4078314823534657844
+    second: Gengar_Haunter_Gastlypng_16
+  - first:
+      213: 4061627763118102128
+    second: Gengar_Haunter_Gastlypng_17
+  - first:
+      213: 6840869633621905372
+    second: Gengar_Haunter_Gastlypng_18
+  - first:
+      213: 7295311349932371524
+    second: Gengar_Haunter_Gastlypng_19
+  - first:
+      213: -1724977849148438265
+    second: Gengar_Haunter_Gastlypng_20
+  - first:
+      213: 3946829342173066012
+    second: Gengar_Haunter_Gastlypng_21
+  - first:
+      213: -1568940067990610602
+    second: Gengar_Haunter_Gastlypng_22
+  - first:
+      213: 999808133785776150
+    second: Gengar_Haunter_Gastlypng_23
+  - first:
+      213: 5860163613871241658
+    second: Gengar_Haunter_Gastlypng_24
+  - first:
+      213: -3893557014417106200
+    second: Gengar_Haunter_Gastlypng_25
+  - first:
+      213: -5361020347472849320
+    second: Gengar_Haunter_Gastlypng_26
+  - first:
+      213: -8222621433757982457
+    second: Gengar_Haunter_Gastlypng_27
+  - first:
+      213: -7238699370360504296
+    second: Gengar_Haunter_Gastlypng_28
+  - first:
+      213: 2452067231672307057
+    second: Gengar_Haunter_Gastlypng_29
+  - first:
+      213: 4689385371155016442
+    second: Gengar_Haunter_Gastlypng_30
+  - first:
+      213: -5775890832543267791
+    second: Gengar_Haunter_Gastlypng_31
+  - first:
+      213: -5786863075169617593
+    second: Gengar_Haunter_Gastlypng_32
+  - first:
+      213: 2830415119953499182
+    second: Gengar_Haunter_Gastlypng_33
+  - first:
+      213: -5805641020011765797
+    second: Gengar_Haunter_Gastlypng_34
+  - first:
+      213: 8078062153574813806
+    second: Gengar_Haunter_Gastlypng_35
+  - first:
+      213: 486518979768557136
+    second: Gengar_Haunter_Gastlypng_36
+  - first:
+      213: 7528267355983666331
+    second: Gengar_Haunter_Gastlypng_37
+  - first:
+      213: -71417362993343478
+    second: Gengar_Haunter_Gastlypng_38
+  - first:
+      213: 7570525822340591096
+    second: Gengar_Haunter_Gastlypng_39
+  - first:
+      213: -6887049913745834936
+    second: Gengar_Haunter_Gastlypng_40
+  - first:
+      213: 9030897441129704633
+    second: Gengar_Haunter_Gastlypng_41
+  - first:
+      213: 7085424253594417677
+    second: Gengar_Haunter_Gastlypng_42
+  - first:
+      213: -2049495771887179022
+    second: Gengar_Haunter_Gastlypng_43
+  - first:
+      213: 882290273671313710
+    second: Gengar_Haunter_Gastlypng_44
+  - first:
+      213: 1613639017154155372
+    second: Gengar_Haunter_Gastlypng_45
+  - first:
+      213: -5941209110843453413
+    second: Gengar_Haunter_Gastlypng_46
+  - first:
+      213: -3428496791172730599
+    second: Gengar_Haunter_Gastlypng_47
+  - first:
+      213: 7205887720843713608
+    second: Gengar_Haunter_Gastlypng_48
+  - first:
+      213: 4453041797688681118
+    second: Gengar_Haunter_Gastlypng_49
+  - first:
+      213: -7293376065894598982
+    second: Gengar_Haunter_Gastlypng_50
+  - first:
+      213: 1362422116023067603
+    second: Gengar_Haunter_Gastlypng_51
+  - first:
+      213: 742503130913821141
+    second: Gengar_Haunter_Gastlypng_52
+  - first:
+      213: -704929655622630974
+    second: Gengar_Haunter_Gastlypng_53
+  - first:
+      213: -4190658118075262789
+    second: Gengar_Haunter_Gastlypng_54
+  - first:
+      213: 4482690838501690261
+    second: Gengar_Haunter_Gastlypng_55
+  - first:
+      213: 8942375123288057750
+    second: Gengar_Haunter_Gastlypng_56
+  - first:
+      213: 8082388288375804781
+    second: Gengar_Haunter_Gastlypng_57
+  - first:
+      213: 5262966001734032226
+    second: Gengar_Haunter_Gastlypng_58
+  - first:
+      213: 5249493115269749351
+    second: Gengar_Haunter_Gastlypng_59
+  - first:
+      213: 5382203005065009697
+    second: Gengar_Haunter_Gastlypng_60
+  - first:
+      213: 1460791307158430955
+    second: Gengar_Haunter_Gastlypng_61
+  - first:
+      213: -1797819626426700836
+    second: Gengar_Haunter_Gastlypng_62
+  - first:
+      213: 1330499335336523182
+    second: Gengar_Haunter_Gastlypng_63
+  - first:
+      213: 1846046216512414382
+    second: Gengar_Haunter_Gastlypng_64
+  - first:
+      213: -6601225283641602028
+    second: Gengar_Haunter_Gastlypng_65
+  - first:
+      213: 5100972798080752778
+    second: Gengar_Haunter_Gastlypng_66
+  - first:
+      213: -4445741527278572841
+    second: Gengar_Haunter_Gastlypng_67
+  - first:
+      213: 8259829265175114968
+    second: Gengar_Haunter_Gastlypng_68
+  - first:
+      213: 2816495899267591281
+    second: Gengar_Haunter_Gastlypng_69
+  - first:
+      213: -2720765805751985521
+    second: Gengar_Haunter_Gastlypng_70
+  - first:
+      213: 5040105085631968988
+    second: Gengar_Haunter_Gastlypng_71
+  - first:
+      213: -824941388184622696
+    second: Gengar_Haunter_Gastlypng_72
+  - first:
+      213: -8729429792304811620
+    second: Gengar_Haunter_Gastlypng_73
+  - first:
+      213: 29478912534134032
+    second: Gengar_Haunter_Gastlypng_74
+  - first:
+      213: -8815287191035908575
+    second: Gengar_Haunter_Gastlypng_75
+  - first:
+      213: 7526042622992185848
+    second: Gengar_Haunter_Gastlypng_76
+  - first:
+      213: 9081778170283311754
+    second: Gengar_Haunter_Gastlypng_77
+  - first:
+      213: 6463865169022730772
+    second: Gengar_Haunter_Gastlypng_78
+  - first:
+      213: 3652671814235221535
+    second: Gengar_Haunter_Gastlypng_79
+  - first:
+      213: 7048652336216848617
+    second: Gengar_Haunter_Gastlypng_80
+  - first:
+      213: 8203801369212102564
+    second: Gengar_Haunter_Gastlypng_81
+  - first:
+      213: -5968835603434813593
+    second: Gengar_Haunter_Gastlypng_82
+  - first:
+      213: -6809733903749561749
+    second: Gengar_Haunter_Gastlypng_83
+  - first:
+      213: -2742076125380792016
+    second: Gengar_Haunter_Gastlypng_84
+  - first:
+      213: -3561407149520028700
+    second: Gengar_Haunter_Gastlypng_85
+  - first:
+      213: 6010969808547375685
+    second: Gengar_Haunter_Gastlypng_86
+  - first:
+      213: -2388260655687288210
+    second: Gengar_Haunter_Gastlypng_87
+  - first:
+      213: 5918077200913443201
+    second: Gengar_Haunter_Gastlypng_88
+  - first:
+      213: 9191310743240321065
+    second: Gengar_Haunter_Gastlypng_89
+  - first:
+      213: 8219366161957514700
+    second: Gengar_Haunter_Gastlypng_90
+  - first:
+      213: -7753119035059571626
+    second: Gengar_Haunter_Gastlypng_91
+  - first:
+      213: -8970540239469939772
+    second: Gengar_Haunter_Gastlypng_92
+  - first:
+      213: 8925809621618511292
+    second: Gengar_Haunter_Gastlypng_93
+  - first:
+      213: -3736009620450270567
+    second: Gengar_Haunter_Gastlypng_94
+  - first:
+      213: -8865603630687653714
+    second: Gengar_Haunter_Gastlypng_95
+  - first:
+      213: 8897898866216514494
+    second: Gengar_Haunter_Gastlypng_96
+  - first:
+      213: 1425669500585037837
+    second: Gengar_Haunter_Gastlypng_97
+  - first:
+      213: 39978774478295187
+    second: Gengar_Haunter_Gastlypng_98
+  - first:
+      213: 2214240296728644770
+    second: Gengar_Haunter_Gastlypng_99
+  - first:
+      213: 7520449843514278565
+    second: Gengar_Haunter_Gastlypng_100
+  - first:
+      213: -5804224124860912860
+    second: Gengar_Haunter_Gastlypng_101
+  - first:
+      213: -5716247127464972468
+    second: Gengar_Haunter_Gastlypng_102
+  - first:
+      213: 8323795361592645073
+    second: Gengar_Haunter_Gastlypng_103
+  - first:
+      213: 3140962225093110081
+    second: Gengar_Haunter_Gastlypng_104
+  - first:
+      213: 3709667510859429862
+    second: Gengar_Haunter_Gastlypng_105
+  - first:
+      213: -7455398083746378637
+    second: Gengar_Haunter_Gastlypng_106
+  - first:
+      213: -8249254428509779238
+    second: Gengar_Haunter_Gastlypng_107
+  - first:
+      213: -4738285782260437316
+    second: Gengar_Haunter_Gastlypng_108
+  - first:
+      213: -7829892733613424145
+    second: Gengar_Haunter_Gastlypng_109
+  - first:
+      213: -4656169336253690550
+    second: Gengar_Haunter_Gastlypng_110
+  - first:
+      213: 8639793297960480651
+    second: Gengar_Haunter_Gastlypng_111
+  - first:
+      213: 4249228715036503159
+    second: Gengar_Haunter_Gastlypng_112
+  - first:
+      213: 3699091202291220618
+    second: Gengar_Haunter_Gastlypng_113
+  - first:
+      213: -7700427140023264961
+    second: Gengar_Haunter_Gastlypng_114
+  - first:
+      213: -8007304622190936065
+    second: Gengar_Haunter_Gastlypng_115
+  - first:
+      213: 1706987293842160864
+    second: Gengar_Haunter_Gastlypng_116
+  - first:
+      213: 222480129222517705
+    second: Gengar_Haunter_Gastlypng_117
+  - first:
+      213: 7393129596527498421
+    second: Gengar_Haunter_Gastlypng_118
+  - first:
+      213: -6473350244099316466
+    second: Gengar_Haunter_Gastlypng_119
+  - first:
+      213: 5476270302865951174
+    second: Gengar_Haunter_Gastlypng_120
+  - first:
+      213: 5283489545139538986
+    second: Gengar_Haunter_Gastlypng_121
+  - first:
+      213: -4340125982253879640
+    second: Gengar_Haunter_Gastlypng_122
+  - first:
+      213: -3161871952429400041
+    second: Gengar_Haunter_Gastlypng_123
+  - first:
+      213: 7031993384960951586
+    second: Gengar_Haunter_Gastlypng_124
+  - first:
+      213: -5953056766441772946
+    second: Gengar_Haunter_Gastlypng_125
+  - first:
+      213: -2189283850175488368
+    second: Gengar_Haunter_Gastlypng_126
+  - first:
+      213: 7860379311643621535
+    second: Gengar_Haunter_Gastlypng_127
+  - first:
+      213: -3889290392648237715
+    second: Gengar_Haunter_Gastlypng_128
+  - first:
+      213: -67103914400822081
+    second: Gengar_Haunter_Gastlypng_129
+  - first:
+      213: 8598352753158029367
+    second: Gengar_Haunter_Gastlypng_130
+  - first:
+      213: 1083943686527692594
+    second: Gengar_Haunter_Gastlypng_131
+  - first:
+      213: 8715005753497303621
+    second: Gengar_Haunter_Gastlypng_132
+  - first:
+      213: -6042865924728187577
+    second: Gengar_Haunter_Gastlypng_133
+  - first:
+      213: 1700458997025412576
+    second: Gengar_Haunter_Gastlypng_134
+  - first:
+      213: -6634858085209833693
+    second: Gengar_Haunter_Gastlypng_135
+  - first:
+      213: -437813006592242531
+    second: Gengar_Haunter_Gastlypng_136
+  - first:
+      213: -3193600128753122892
+    second: Gengar_Haunter_Gastlypng_137
+  - first:
+      213: 5302063771951622668
+    second: Gengar_Haunter_Gastlypng_138
+  - first:
+      213: -7483891082779207942
+    second: Gengar_Haunter_Gastlypng_139
+  - first:
+      213: -7351972973994466373
+    second: Gengar_Haunter_Gastlypng_140
+  - first:
+      213: -5579006790941634083
+    second: Gengar_Haunter_Gastlypng_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 836
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499a229d718dff00800000000000000
+      internalID: 1152219455999875405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 836
+        width: 49
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bba23b1a3fdc700800000000000000
+      internalID: 562373404312386334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 836
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69632063d340e4d0800000000000000
+      internalID: -3107409167755548305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 836
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b876af63744e930800000000000000
+      internalID: 4171537456306817924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 830
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2334b60a2ff6c0840800000000000000
+      internalID: 5191647558315492146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 834
+        width: 56
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455b05c5e08d48c0800000000000000
+      internalID: -4013409968575523517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 836
+        width: 60
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc95eefd2bb41320800000000000000
+      internalID: 2527851097086074045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 836
+        width: 47
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdd528f10e97f5f0800000000000000
+      internalID: -722935483874288198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 836
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f8afade773e4e0800000000000000
+      internalID: -1953585950610624466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 775
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6593767f3ef59ed0800000000000000
+      internalID: -2407738877235980946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 775
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42214f55cdb055040800000000000000
+      internalID: 4635624432410563108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 775
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044ae57b3831d6930800000000000000
+      internalID: 4137985089061430336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 764
+        width: 50
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4314ef269b5199830800000000000000
+      internalID: 4078314823534657844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 758
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d48e5eeccd5830800000000000000
+      internalID: 4061627763118102128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_18
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 762
+        width: 57
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf4ac2ffa6afee50800000000000000
+      internalID: 6840869633621905372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 764
+        width: 61
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e289245072e3560800000000000000
+      internalID: 7295311349932371524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_20
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 764
+        width: 47
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709071819c5af08e0800000000000000
+      internalID: -1724977849148438265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 764
+        width: 47
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dda8d12510a3ae0800000000000000
+      internalID: -1568940067990610602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 715
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610f8d1533800ed00800000000000000
+      internalID: 999808133785776150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 715
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9f67222cb735150800000000000000
+      internalID: 5860163613871241658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 716
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea10fa368e47f9c0800000000000000
+      internalID: -3893557014417106200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 690
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701a75e0f5163ed80800000000000000
+      internalID: -8222621433757982457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 690
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81081d16649fa8b90800000000000000
+      internalID: -7238699370360504296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 690
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d0435d72e770220800000000000000
+      internalID: 2452067231672307057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 690
+        width: 58
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaab9e462b041140800000000000000
+      internalID: 4689385371155016442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 693
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c2d8c3e9e7dfa0800000000000000
+      internalID: -5775890832543267791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_32
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 692
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b0b871bee0bfa0800000000000000
+      internalID: -5786863075169617593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 654
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2419bf2e87a74720800000000000000
+      internalID: 2830415119953499182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 654
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf13cc70483e6fa0800000000000000
+      internalID: -5805641020011765797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 656
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e609a51baba0b1070800000000000000
+      internalID: 8078062153574813806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 628
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a049cf76946420ff0800000000000000
+      internalID: -71417362993343478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 630
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd68830029ef0960800000000000000
+      internalID: 7570525822340591096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 630
+        width: 52
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c7bc4b7984c60a0800000000000000
+      internalID: -6887049913745834936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 630
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc258dff51345d70800000000000000
+      internalID: 9030897441129704633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_43
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 630
+        width: 49
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faeff3447abe83e0800000000000000
+      internalID: -2049495771887179022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_44
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 630
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f5fe44568e3c00800000000000000
+      internalID: 882290273671313710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 546
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c631f2df22cc46610800000000000000
+      internalID: 1613639017154155372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 546
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b109cd3aac59c8da0800000000000000
+      internalID: -5941209110843453413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 543
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911359855588b60d0800000000000000
+      internalID: -3428496791172730599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 551
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c1d3424b4700460800000000000000
+      internalID: 7205887720843713608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 551
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e926339fbe16ccd30800000000000000
+      internalID: 4453041797688681118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 546
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6340b2c19b8ca90800000000000000
+      internalID: -7293376065894598982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 546
+        width: 54
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e0b332bb48e210800000000000000
+      internalID: 1362422116023067603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_52
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 545
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1dbb2e9a6ed4a00800000000000000
+      internalID: 742503130913821141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_53
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 546
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c189fc86369736f0800000000000000
+      internalID: -704929655622630974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_54
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 550
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8540905aac7d5c0800000000000000
+      internalID: -4190658118075262789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_55
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 552
+        width: 55
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b8aca3197b53e30800000000000000
+      internalID: 4482690838501690261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 549
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697efdfbbc2b91c70800000000000000
+      internalID: 8942375123288057750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_57
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 542
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63da6173596a2070800000000000000
+      internalID: 8082388288375804781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_58
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 542
+        width: 60
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b9056b1bfc90940800000000000000
+      internalID: 5262966001734032226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 478
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a1382ec22f9d840800000000000000
+      internalID: 5249493115269749351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 474
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a90f1fd1d61ba40800000000000000
+      internalID: 5382203005065009697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 473
+        width: 52
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4282a44f5c54410800000000000000
+      internalID: 1460791307158430955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_62
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 470
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb6c94339cdc07e0800000000000000
+      internalID: -1797819626426700836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_63
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 478
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea570a0a812e67210800000000000000
+      internalID: 1330499335336523182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 474
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22d2ec0497e9910800000000000000
+      internalID: 1846046216512414382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_65
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 473
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410173e449cb364a0800000000000000
+      internalID: -6601225283641602028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_66
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 470
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9886dbbb4ac640800000000000000
+      internalID: 5100972798080752778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_67
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 466
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daab5fa2ad8d42c0800000000000000
+      internalID: -4445741527278572841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_68
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 469
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4732844fec0a270800000000000000
+      internalID: 8259829265175114968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_69
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 471
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c60331914361720800000000000000
+      internalID: 2816495899267591281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_70
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 467
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9f173ae5ed3ad0800000000000000
+      internalID: -2720765805751985521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_71
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 461
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6bbbb2fdc02f540800000000000000
+      internalID: 5040105085631968988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_72
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 462
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899ecbc9d283d84f0800000000000000
+      internalID: -824941388184622696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 412
+        width: 49
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b5f9bad5dad680800000000000000
+      internalID: -8729429792304811620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 414
+        width: 48
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d36fd2aeab86000800000000000000
+      internalID: 29478912534134032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_75
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 409
+        width: 48
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ee041510fc9a580800000000000000
+      internalID: -8815287191035908575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 407
+        width: 49
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f5e314efd17860800000000000000
+      internalID: 7526042622992185848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_77
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 413
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8242a8e025f80e70800000000000000
+      internalID: 9081778170283311754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 412
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ce9bcf1344b950800000000000000
+      internalID: 6463865169022730772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 409
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e629099a5e0b230800000000000000
+      internalID: 3652671814235221535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_80
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 407
+        width: 50
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8be6554f7d1d160800000000000000
+      internalID: 7048652336216848617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_81
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 388
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a720c331e1c9d170800000000000000
+      internalID: 8203801369212102564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_82
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 387
+        width: 47
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767409694af6a2da0800000000000000
+      internalID: -5968835603434813593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_83
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 385
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c2141817fe71a0800000000000000
+      internalID: -6809733903749561749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_84
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 388
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0313997ca4032f9d0800000000000000
+      internalID: -2742076125380792016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_85
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 388
+        width: 60
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb72501117539ec0800000000000000
+      internalID: -3561407149520028700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_86
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 386
+        width: 59
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a601281314b6350800000000000000
+      internalID: 6010969808547375685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 346
+        width: 50
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ab7b256913bded0800000000000000
+      internalID: -2388260655687288210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_88
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 346
+        width: 49
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a8c1ebdb312250800000000000000
+      internalID: 5918077200913443201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_89
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 386
+        width: 4
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928221f5c681e8f70800000000000000
+      internalID: 9191310743240321065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 346
+        width: 50
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde75ae9fd011270800000000000000
+      internalID: 8219366161957514700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_91
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 346
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65474fdb053676490800000000000000
+      internalID: -7753119035059571626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 342
+        width: 48
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3fb0f1e2d328380800000000000000
+      internalID: -8970540239469939772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 340
+        width: 50
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc5555f88dedb70800000000000000
+      internalID: 8925809621618511292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 342
+        width: 50
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992ae9f5b07072cc0800000000000000
+      internalID: -3736009620450270567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_95
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 340
+        width: 49
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f279487c07f480800000000000000
+      internalID: -8865603630687653714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_96
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 314
+        width: 49
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3bf2030efab7b70800000000000000
+      internalID: 8897898866216514494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_97
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 312
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00da757bdef8c310800000000000000
+      internalID: 1425669500585037837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_98
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 310
+        width: 48
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390955bcb780e8000800000000000000
+      internalID: 39978774478295187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_99
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 314
+        width: 50
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2accddd71df8abe10800000000000000
+      internalID: 2214240296728644770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_100
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 313
+        width: 61
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a28fc1a9410e5860800000000000000
+      internalID: 7520449843514278565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_101
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 312
+        width: 58
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba9e819e0437fa0800000000000000
+      internalID: -5804224124860912860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 221
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f6a17068fcba0b0800000000000000
+      internalID: -5716247127464972468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_103
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d516cea7cf048370800000000000000
+      internalID: 8323795361592645073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 220
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149689f8080f69b20800000000000000
+      internalID: 3140962225093110081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_105
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 220
+        width: 44
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7759b42f26b7330800000000000000
+      internalID: 3709667510859429862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_106
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 220
+        width: 40
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4b2771fa198890800000000000000
+      internalID: -7455398083746378637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_107
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 221
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada4bdebdc2c48d80800000000000000
+      internalID: -8249254428509779238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_108
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 218
+        width: 38
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe25108f2a3e3eb0800000000000000
+      internalID: -4738285782260437316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_109
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 218
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14f871b02a65390800000000000000
+      internalID: -7829892733613424145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_110
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 218
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d488a78a6f16fb0800000000000000
+      internalID: -4656169336253690550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_111
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 218
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f2cb99a36b6e770800000000000000
+      internalID: 8639793297960480651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 159
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ce321c00b48fa30800000000000000
+      internalID: 4249228715036503159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_113
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 159
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80475099dfc55330800000000000000
+      internalID: 3699091202291220618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 159
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d2249056922590800000000000000
+      internalID: -7700427140023264961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_115
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 159
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff37f1eed650e090800000000000000
+      internalID: -8007304622190936065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_116
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 159
+        width: 40
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec319556ef60b710800000000000000
+      internalID: 1706987293842160864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_117
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 159
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c324efaf78661300800000000000000
+      internalID: 222480129222517705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_118
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 158
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4d273923ca99660800000000000000
+      internalID: 7393129596527498421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_119
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 158
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05a5c1104a0a26a0800000000000000
+      internalID: -6473350244099316466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_120
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 158
+        width: 42
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9885073de9ffb40800000000000000
+      internalID: 5476270302865951174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_121
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 158
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c48888fb9b25940800000000000000
+      internalID: 5283489545139538986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_122
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae60530a66c4c3c0800000000000000
+      internalID: -4340125982253879640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 99
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710cc2a2636ce14d0800000000000000
+      internalID: -3161871952429400041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_124
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 99
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2258e7df9b8a69160800000000000000
+      internalID: 7031993384960951586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_125
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 100
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a08c596e726da0800000000000000
+      internalID: -5953056766441772946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_126
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 99
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e5ac500f91e91e0800000000000000
+      internalID: -2189283850175488368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_127
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 99
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98f85e765da51d60800000000000000
+      internalID: 7860379311643621535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_128
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 97
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dbcd58ef6760ac0800000000000000
+      internalID: -3889290392648237715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_129
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 97
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc91b6859911ff0800000000000000
+      internalID: -67103914400822081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_130
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 97
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7308c71e54c735770800000000000000
+      internalID: 8598352753158029367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_131
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 97
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa2083a01fa0f00800000000000000
+      internalID: 1083943686527692594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_132
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 38
+        width: 38
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a31b80f8be1f870800000000000000
+      internalID: 8715005753497303621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_133
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 38
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745934b357d632ca0800000000000000
+      internalID: -6042865924728187577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_134
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e511d8c27e399710800000000000000
+      internalID: 1700458997025412576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_135
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 40
+        width: 38
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f70f779bf3ce3a0800000000000000
+      internalID: -6634858085209833693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_136
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 38
+        width: 37
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0600e3639ce9f0800000000000000
+      internalID: -437813006592242531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_137
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 38
+        width: 37
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b147037a9d0ea3d0800000000000000
+      internalID: -3193600128753122892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_138
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 36
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ae4a7b8e6b49940800000000000000
+      internalID: 5302063771951622668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_139
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 36
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af65b3926b0e32890800000000000000
+      internalID: -7483891082779207942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_140
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 36
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a9c6588b88f990800000000000000
+      internalID: -7351972973994466373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gengar_Haunter_Gastlypng_141
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 36
+        width: 40
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd19e6ae1e26392b0800000000000000
+      internalID: -5579006790941634083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e06ce07675394a4c917c879059922ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Gengar_Haunter_Gastlypng_0: 1152219455999875405
+      Gengar_Haunter_Gastlypng_1: 562373404312386334
+      Gengar_Haunter_Gastlypng_10: -1953585950610624466
+      Gengar_Haunter_Gastlypng_100: 7520449843514278565
+      Gengar_Haunter_Gastlypng_101: -5804224124860912860
+      Gengar_Haunter_Gastlypng_102: -5716247127464972468
+      Gengar_Haunter_Gastlypng_103: 8323795361592645073
+      Gengar_Haunter_Gastlypng_104: 3140962225093110081
+      Gengar_Haunter_Gastlypng_105: 3709667510859429862
+      Gengar_Haunter_Gastlypng_106: -7455398083746378637
+      Gengar_Haunter_Gastlypng_107: -8249254428509779238
+      Gengar_Haunter_Gastlypng_108: -4738285782260437316
+      Gengar_Haunter_Gastlypng_109: -7829892733613424145
+      Gengar_Haunter_Gastlypng_11: 2826584589995572326
+      Gengar_Haunter_Gastlypng_110: -4656169336253690550
+      Gengar_Haunter_Gastlypng_111: 8639793297960480651
+      Gengar_Haunter_Gastlypng_112: 4249228715036503159
+      Gengar_Haunter_Gastlypng_113: 3699091202291220618
+      Gengar_Haunter_Gastlypng_114: -7700427140023264961
+      Gengar_Haunter_Gastlypng_115: -8007304622190936065
+      Gengar_Haunter_Gastlypng_116: 1706987293842160864
+      Gengar_Haunter_Gastlypng_117: 222480129222517705
+      Gengar_Haunter_Gastlypng_118: 7393129596527498421
+      Gengar_Haunter_Gastlypng_119: -6473350244099316466
+      Gengar_Haunter_Gastlypng_12: -2407738877235980946
+      Gengar_Haunter_Gastlypng_120: 5476270302865951174
+      Gengar_Haunter_Gastlypng_121: 5283489545139538986
+      Gengar_Haunter_Gastlypng_122: -4340125982253879640
+      Gengar_Haunter_Gastlypng_123: -3161871952429400041
+      Gengar_Haunter_Gastlypng_124: 7031993384960951586
+      Gengar_Haunter_Gastlypng_125: -5953056766441772946
+      Gengar_Haunter_Gastlypng_126: -2189283850175488368
+      Gengar_Haunter_Gastlypng_127: 7860379311643621535
+      Gengar_Haunter_Gastlypng_128: -3889290392648237715
+      Gengar_Haunter_Gastlypng_129: -67103914400822081
+      Gengar_Haunter_Gastlypng_13: 4635624432410563108
+      Gengar_Haunter_Gastlypng_130: 8598352753158029367
+      Gengar_Haunter_Gastlypng_131: 1083943686527692594
+      Gengar_Haunter_Gastlypng_132: 8715005753497303621
+      Gengar_Haunter_Gastlypng_133: -6042865924728187577
+      Gengar_Haunter_Gastlypng_134: 1700458997025412576
+      Gengar_Haunter_Gastlypng_135: -6634858085209833693
+      Gengar_Haunter_Gastlypng_136: -437813006592242531
+      Gengar_Haunter_Gastlypng_137: -3193600128753122892
+      Gengar_Haunter_Gastlypng_138: 5302063771951622668
+      Gengar_Haunter_Gastlypng_139: -7483891082779207942
+      Gengar_Haunter_Gastlypng_14: -470803161361871824
+      Gengar_Haunter_Gastlypng_140: -7351972973994466373
+      Gengar_Haunter_Gastlypng_141: -5579006790941634083
+      Gengar_Haunter_Gastlypng_15: 4137985089061430336
+      Gengar_Haunter_Gastlypng_16: 4078314823534657844
+      Gengar_Haunter_Gastlypng_17: 4061627763118102128
+      Gengar_Haunter_Gastlypng_18: 6840869633621905372
+      Gengar_Haunter_Gastlypng_19: 7295311349932371524
+      Gengar_Haunter_Gastlypng_2: -3107409167755548305
+      Gengar_Haunter_Gastlypng_20: -1724977849148438265
+      Gengar_Haunter_Gastlypng_21: 3946829342173066012
+      Gengar_Haunter_Gastlypng_22: -1568940067990610602
+      Gengar_Haunter_Gastlypng_23: 999808133785776150
+      Gengar_Haunter_Gastlypng_24: 5860163613871241658
+      Gengar_Haunter_Gastlypng_25: -3893557014417106200
+      Gengar_Haunter_Gastlypng_26: -5361020347472849320
+      Gengar_Haunter_Gastlypng_27: -8222621433757982457
+      Gengar_Haunter_Gastlypng_28: -7238699370360504296
+      Gengar_Haunter_Gastlypng_29: 2452067231672307057
+      Gengar_Haunter_Gastlypng_3: 5995117069435440283
+      Gengar_Haunter_Gastlypng_30: 4689385371155016442
+      Gengar_Haunter_Gastlypng_31: -5775890832543267791
+      Gengar_Haunter_Gastlypng_32: -5786863075169617593
+      Gengar_Haunter_Gastlypng_33: 2830415119953499182
+      Gengar_Haunter_Gastlypng_34: -5805641020011765797
+      Gengar_Haunter_Gastlypng_35: 8078062153574813806
+      Gengar_Haunter_Gastlypng_36: 486518979768557136
+      Gengar_Haunter_Gastlypng_37: 7528267355983666331
+      Gengar_Haunter_Gastlypng_38: -71417362993343478
+      Gengar_Haunter_Gastlypng_39: 7570525822340591096
+      Gengar_Haunter_Gastlypng_4: 4171537456306817924
+      Gengar_Haunter_Gastlypng_40: -6887049913745834936
+      Gengar_Haunter_Gastlypng_41: 9030897441129704633
+      Gengar_Haunter_Gastlypng_42: 7085424253594417677
+      Gengar_Haunter_Gastlypng_43: -2049495771887179022
+      Gengar_Haunter_Gastlypng_44: 882290273671313710
+      Gengar_Haunter_Gastlypng_45: 1613639017154155372
+      Gengar_Haunter_Gastlypng_46: -5941209110843453413
+      Gengar_Haunter_Gastlypng_47: -3428496791172730599
+      Gengar_Haunter_Gastlypng_48: 7205887720843713608
+      Gengar_Haunter_Gastlypng_49: 4453041797688681118
+      Gengar_Haunter_Gastlypng_5: 5191647558315492146
+      Gengar_Haunter_Gastlypng_50: -7293376065894598982
+      Gengar_Haunter_Gastlypng_51: 1362422116023067603
+      Gengar_Haunter_Gastlypng_52: 742503130913821141
+      Gengar_Haunter_Gastlypng_53: -704929655622630974
+      Gengar_Haunter_Gastlypng_54: -4190658118075262789
+      Gengar_Haunter_Gastlypng_55: 4482690838501690261
+      Gengar_Haunter_Gastlypng_56: 8942375123288057750
+      Gengar_Haunter_Gastlypng_57: 8082388288375804781
+      Gengar_Haunter_Gastlypng_58: 5262966001734032226
+      Gengar_Haunter_Gastlypng_59: 5249493115269749351
+      Gengar_Haunter_Gastlypng_6: -4013409968575523517
+      Gengar_Haunter_Gastlypng_60: 5382203005065009697
+      Gengar_Haunter_Gastlypng_61: 1460791307158430955
+      Gengar_Haunter_Gastlypng_62: -1797819626426700836
+      Gengar_Haunter_Gastlypng_63: 1330499335336523182
+      Gengar_Haunter_Gastlypng_64: 1846046216512414382
+      Gengar_Haunter_Gastlypng_65: -6601225283641602028
+      Gengar_Haunter_Gastlypng_66: 5100972798080752778
+      Gengar_Haunter_Gastlypng_67: -4445741527278572841
+      Gengar_Haunter_Gastlypng_68: 8259829265175114968
+      Gengar_Haunter_Gastlypng_69: 2816495899267591281
+      Gengar_Haunter_Gastlypng_7: 2527851097086074045
+      Gengar_Haunter_Gastlypng_70: -2720765805751985521
+      Gengar_Haunter_Gastlypng_71: 5040105085631968988
+      Gengar_Haunter_Gastlypng_72: -824941388184622696
+      Gengar_Haunter_Gastlypng_73: -8729429792304811620
+      Gengar_Haunter_Gastlypng_74: 29478912534134032
+      Gengar_Haunter_Gastlypng_75: -8815287191035908575
+      Gengar_Haunter_Gastlypng_76: 7526042622992185848
+      Gengar_Haunter_Gastlypng_77: 9081778170283311754
+      Gengar_Haunter_Gastlypng_78: 6463865169022730772
+      Gengar_Haunter_Gastlypng_79: 3652671814235221535
+      Gengar_Haunter_Gastlypng_8: -722935483874288198
+      Gengar_Haunter_Gastlypng_80: 7048652336216848617
+      Gengar_Haunter_Gastlypng_81: 8203801369212102564
+      Gengar_Haunter_Gastlypng_82: -5968835603434813593
+      Gengar_Haunter_Gastlypng_83: -6809733903749561749
+      Gengar_Haunter_Gastlypng_84: -2742076125380792016
+      Gengar_Haunter_Gastlypng_85: -3561407149520028700
+      Gengar_Haunter_Gastlypng_86: 6010969808547375685
+      Gengar_Haunter_Gastlypng_87: -2388260655687288210
+      Gengar_Haunter_Gastlypng_88: 5918077200913443201
+      Gengar_Haunter_Gastlypng_89: 9191310743240321065
+      Gengar_Haunter_Gastlypng_9: -7368851521259237734
+      Gengar_Haunter_Gastlypng_90: 8219366161957514700
+      Gengar_Haunter_Gastlypng_91: -7753119035059571626
+      Gengar_Haunter_Gastlypng_92: -8970540239469939772
+      Gengar_Haunter_Gastlypng_93: 8925809621618511292
+      Gengar_Haunter_Gastlypng_94: -3736009620450270567
+      Gengar_Haunter_Gastlypng_95: -8865603630687653714
+      Gengar_Haunter_Gastlypng_96: 8897898866216514494
+      Gengar_Haunter_Gastlypng_97: 1425669500585037837
+      Gengar_Haunter_Gastlypng_98: 39978774478295187
+      Gengar_Haunter_Gastlypng_99: 2214240296728644770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3137254057378873562}
   - component: {fileID: 7012069742063421754}
   - component: {fileID: 434413740205618868}
-  - component: {fileID: 2329122951311938706}
+  - component: {fileID: 2340920238340775351}
   m_Layer: 7
   m_Name: Enemy3
   m_TagString: Enemy
@@ -57,6 +57,8 @@ SpriteRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -78,7 +80,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1919248021
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 1837091877
   m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -4606552108516508874, guid: c0636a870a352534b85dab1ba4b6bc10, type: 3}
@@ -102,7 +105,7 @@ Animator:
   m_GameObject: {fileID: 40043641672547100}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c8a26c1b9f826a34794a10b927ae02fa, type: 2}
+  m_Controller: {fileID: 9100000, guid: 98a5bc5fee9a0f2419e7721cc4966afc, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -175,9 +178,9 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.6699244}
-  m_Radius: 0.67949796
---- !u!114 &2329122951311938706
+  m_Offset: {x: -0.051199555, y: 0.86600626}
+  m_Radius: 0.83132184
+--- !u!114 &2340920238340775351
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -186,17 +189,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 40043641672547100}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69000391031958e41a238cf55c73e9fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 979d29ca717d2df49be66dccc38e79d8, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: 
+  m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   spriteRenderer: {fileID: 3316476298772712472}
   rb: {fileID: 7012069742063421754}
-  moveSpeed: 1.2
+  moveSpeed: 3
   damage: 3
-  health: 15
-  experienceToGive: 3
-  pushTime: 0.3
-  destroyEffect: {fileID: 3655094787856938160, guid: 0ca0953cc88af3549bb5bc3445920d28, type: 3}
+  health: 2
+  experienceToGive: 10
+  pushTime: 2
+  destroyEffect: {fileID: 5586811252569648555, guid: 4581941abfccf31449c07480ac95e495, type: 3}
 --- !u!1 &6616949080437791097
 GameObject:
   m_ObjectHideFlags: 0
@@ -209,7 +212,7 @@ GameObject:
   - component: {fileID: 473349234060255588}
   m_Layer: 7
   m_Name: shadow
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -249,6 +252,8 @@ SpriteRenderer:
   m_RayTracingAccelStructBuildFlagsOverride: 0
   m_RayTracingAccelStructBuildFlags: 1
   m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -270,7 +275,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1919248021
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 1837091877
   m_SortingLayer: 3
   m_SortingOrder: -1
   m_Sprite: {fileID: 21300000, guid: 10e6053470392d24fb40e8a2c277b764, type: 3}
