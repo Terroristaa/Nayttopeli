@@ -13,10 +13,10 @@ public class Weapon : MonoBehaviour
         if (weaponLevel < stats.Count - 1)
         {
             weaponLevel++;
+
         }
     }
 }
-
 [System.Serializable]
 public class WeaponStats
 {
@@ -26,6 +26,5 @@ public class WeaponStats
     public float range;
     public float speed;
     public float amount;
-
     public string description;
 }

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 
 public class EnemySpawner : MonoBehaviour
 {
+    public static EnemySpawner Instance;
+
     [System.Serializable]
     public class Wave
     {
@@ -17,8 +19,14 @@ public class EnemySpawner : MonoBehaviour
     public Transform minPos;
     public Transform maxPos;
 
+    void Awake()
+    {
+        Instance = this;
+    }
+
     void Update()
     {
+        
         if (PlayerController.Instance.gameObject.activeSelf)
         {
             if (PlayerController.Instance.gameObject.activeSelf)

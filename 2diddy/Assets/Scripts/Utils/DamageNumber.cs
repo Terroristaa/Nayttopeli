@@ -5,6 +5,11 @@ public class DamageNumber : MonoBehaviour
 {
     [SerializeField] private TMP_Text damageText;
     private float floatSpeed;
+    public Material[] fontSharedMaterials
+    {
+        get => damageText != null ? damageText.fontSharedMaterials : null;
+        set { if (damageText != null) damageText.fontSharedMaterials = value; }
+    }
 
     void Start() {
         floatSpeed = Random.Range(0.1f, 1.5f);
