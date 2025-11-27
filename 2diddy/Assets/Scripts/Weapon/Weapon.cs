@@ -8,10 +8,8 @@ public class Weapon : MonoBehaviour
     public Sprite weaponImage;
     public string basicDescription;
 
-    public void LevelUp()
-    {
-        if (weaponLevel < stats.Count - 1)
-        {
+    public void LevelUp() {
+        if (weaponLevel < stats.Count - 1) {
             weaponLevel++;
 
         }
